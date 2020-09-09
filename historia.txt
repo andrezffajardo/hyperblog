@@ -3,3 +3,4 @@ Hablaremos de la vida de Andres
 Andres tiene 40 y nació en Cali, Colombia
 
 Mañana hablaremos de mas cosas.
+Hoy está aprendiendo git
